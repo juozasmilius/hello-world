@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hello humans!
+
+Here I am, this is me...
+
+I whant to learn web development.
